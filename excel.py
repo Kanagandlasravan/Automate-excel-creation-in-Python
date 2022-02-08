@@ -10,14 +10,14 @@ data = [
     },
     {
         'name': "Ronak Duari",
-        'phone': "8551941547",
+        'phone': "8000000007",
         'email' : "ronakduarik@gmail.com",
         'address': "Nalasopara, Mumbai, Maharastra - 400019",
         'country': "India"
     },
     {
         'name': "Ravali Kanagandla",
-        'phone': "7506847295",
+        'phone': "7000000005",
         'email' : "ravalikanagandla@gmail.com",
         'address': "Borivali West, Mumbai, Maharastra - 400103",
         'country': "India"
